@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minimum Order Amount\n"
+"POT-Creation-Date: 2016-11-22 11:19+0100\n"
+"PO-Revision-Date: 2016-11-22 11:19+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ecpm-moa.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ecpm-moa.php:202
+msgid "Settings saved."
+msgstr ""
+
+#: ecpm-moa.php:219
+msgid "Minimum amount"
+msgstr ""
+
+#: ecpm-moa.php:223
+msgid "Input minimum amount for orders"
+msgstr ""
+
+#: ecpm-moa.php:230
+msgid "Hide warning message"
+msgstr ""
+
+#: ecpm-moa.php:234
+msgid "Would you like to hide warning message?"
+msgstr ""
+
+#: ecpm-moa.php:240
+msgid "Warning text"
+msgstr ""
+
+#: ecpm-moa.php:244
+msgid ""
+"Warning text will be shown to the user on ad details page before entering ad "
+"data."
+msgstr ""
+
+#: ecpm-moa.php:245 ecpm-moa.php:280
+msgid "Use [minamt] to display minimum amount specified."
+msgstr ""
+
+#: ecpm-moa.php:251
+msgid "Warning style"
+msgstr ""
+
+#: ecpm-moa.php:255
+msgid "Success"
+msgstr ""
+
+#: ecpm-moa.php:256
+msgid "Error"
+msgstr ""
+
+#: ecpm-moa.php:257
+msgid "Warning"
+msgstr ""
+
+#: ecpm-moa.php:265
+msgid "Hide error message"
+msgstr ""
+
+#: ecpm-moa.php:269
+msgid "Would you like to hide error message? (not recommended)"
+msgstr ""
+
+#: ecpm-moa.php:275
+msgid "Error text"
+msgstr ""
+
+#: ecpm-moa.php:279
+msgid ""
+"Error text will be shown to the user if the amount does not exceed minimum "
+"amount specified."
+msgstr ""
+
+#: ecpm-moa.php:287
+msgid "No form progress"
+msgstr ""
+
+#: ecpm-moa.php:291
+msgid ""
+"If your child theme is not showing order progess bar or you are not getting "
+"messages from this plugin, select this option."
+msgstr ""
+
+#: ecpm-moa.php:298
+msgid "Save settings"
+msgstr ""
+
+#: paid_plugin_inc.php:3
+msgid "Here are additional plugins that will give you more ad features"
+msgstr ""
+
+#: paid_plugin_inc.php:9 paid_plugin_inc.php:21
+msgid "Install this plugin to get extra features"
+msgstr ""
+
+#: paid_plugin_inc.php:11 paid_plugin_inc.php:23
+msgid "Plugin already installed. Thank you."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Minimum Order Amount"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.easycpmods.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Minimum Order Amount is a lightweight plugin that will not allow users to "
+"make purchases smaller then the amount you specify. Classipress theme is "
+"required for this plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "EasyCPMods"
+msgstr ""

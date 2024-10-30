@@ -1,0 +1,15 @@
+.moa-not-installed {
+  border:1px solid grey;
+  margin:10px 10px 10px 10px;
+  padding:10px 10px 10px 10px;
+  background-color:#0085BA;
+  color:#fff;
+}
+
+.moa-installed {
+  border:1px solid grey;
+  margin:10px 10px 10px 10px;
+  padding:10px 10px 10px 10px;
+  background-color:#F7F7F7;
+}
+
